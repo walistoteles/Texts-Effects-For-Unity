@@ -22,12 +22,12 @@ Aplica efeitos dinâmicos em regiões marcadas com `<tags>` no texto do TMP.
 
 #### ✅ Tags disponíveis
 
-| Tag           | Descrição                                                                 |
-|----------------|--------------------------------------------------------------------------|
+| Tag           | Descrição                                                                |
+|----------------|-------------------------------------------------------------------------|
 | `<wiggle>`     | Move para cima e baixo em looping contínuo                              |
 | `<shake>`      | Vibração randômica nas direções horizontal e vertical                   |
-| `<bounce>`     | Movimento de pulo suave contínuo                                         |
-| `<glitch>`     | Tremores com distorções caóticas                                         |
+| `<bounce>`     | Movimento de pulo suave contínuo                                        |
+| `<glitch>`     | Tremores com distorções caóticas                                        |
 | `<scale>`      | Pulsa o tamanho da letra de forma rítmica                               |
 | `<squash>`     | Alterna largura e altura, dando efeito de “compressão”                  |
 | `<fadewave>`   | Alterna a visibilidade das letras como uma onda                         |
@@ -35,6 +35,7 @@ Aplica efeitos dinâmicos em regiões marcadas com `<tags>` no texto do TMP.
 | `<flip>`       | Rotação oscilante no eixo Z                                             |
 | `<explode>`    | Letras se afastam do centro como se explodissem                         |
 | `<speedbump>`  | Como o `<wave>`, mas com rotação no eixo X simulando “quebra-molas”     |
+| `<montain>`    | Simula as Letras Subindo por uma Montanha                               |
 ## 🎞️ Demonstração
 
 ![Demonstração dos efeitos](media/example.gif)
