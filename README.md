@@ -22,18 +22,22 @@ Aplica efeitos dinâmicos em regiões marcadas com `<tags>` no texto do TMP.
 
 #### ✅ Tags disponíveis
 
-| Tag         | Descrição                                        |
-|-------------|--------------------------------------------------|
-| `<wiggle>`  | Move para cima e baixo em looping                |
-| `<shake>`   | Vibração randômica lateral e vertical            |
-| `<bounce>`  | Pulo suave contínuo                              |
-| `<glitch>`  | Tremor com distorções aleatórias                 |
-| `<scale>`   | Pulsa em tamanho                                 |
-| `<squash>`  | Distorce largura/altura                          |
-| `<fadewave>`| Alterna visibilidade suavemente como uma onda   |
-| `<wave>`    | Movimento de serpente vertical                   |
-| `<flip>`    | Rotação no eixo Z                                |
-| `<explode>` | Letras se afastam do centro temporariamente      |
+| Tag           | Descrição                                                                 |
+|----------------|--------------------------------------------------------------------------|
+| `<wiggle>`     | Move para cima e baixo em looping contínuo                              |
+| `<shake>`      | Vibração randômica nas direções horizontal e vertical                   |
+| `<bounce>`     | Movimento de pulo suave contínuo                                         |
+| `<glitch>`     | Tremores com distorções caóticas                                         |
+| `<scale>`      | Pulsa o tamanho da letra de forma rítmica                               |
+| `<squash>`     | Alterna largura e altura, dando efeito de “compressão”                  |
+| `<fadewave>`   | Alterna a visibilidade das letras como uma onda                         |
+| `<wave>`       | Movimento suave vertical como uma serpente ondulante                    |
+| `<flip>`       | Rotação oscilante no eixo Z                                             |
+| `<explode>`    | Letras se afastam do centro como se explodissem                         |
+| `<speedbump>`  | Como o `<wave>`, mas com rotação no eixo X simulando “quebra-molas”     |
+## 🎞️ Demonstração
+
+![Demonstração dos efeitos](media/example.gif)
 
 #### 🔧 Parâmetros nas tags
 - `s=` → velocidade (`speed`)
